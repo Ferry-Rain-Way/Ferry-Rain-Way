@@ -1,10 +1,38 @@
-- 👋 Hi, I’m @Ferry-Rain-Way
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-Ferry-Rain-Way/Ferry-Rain-Way is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 个人优势
+---
+
+1. 参与开发或主导 Java 后端程序、安卓、APP 、 Vue 前端等类型项目；
+2. 熟悉 Java、C等编程语言；
+3. 熟悉 sql 语言主键外键联合表查询（sqlyog、navicat）；
+4. 能熟练使用 stable diffusion 等制图 ai 工具
+5. 流利使用中文、英文，无障碍阅读英文论文
+6. 熟练掌握 office 办公软件
+7. 长期保持学习状态，吃苦耐劳善于沟通
+
+
+### 教育经历
+---
+**本科** 计算机科学与技术     2020-2024
+
+**专业排名:** 前10%
+
+**主修课程:** 数据结构、 数据库、 Java程序设计、 面向对象程序设计、 数据库原理
+
+1. java程序设计、数据库系统课程设计、软件人机界面设计、Web应用开发、移动应用开发课程设计成绩优秀
+2. 参加华为 HCIA-Datacom 培训并获得职业认证
+3. 成功参加华为ICT大赛
+4. 参加2022年“挑战杯”大创比赛
+5. 参加2022年“互联网+”大赛
+6. 参加华为开发者联盟获先后获得HarmonyOS 应用开发者基础认证和高级认证
+7. 参加鸿蒙云开发课程并获得鸿蒙云开发基础认证
+8. 参加鸿蒙开发者联盟课堂，学习并完成ArkTS语言开发的基础应用程序
+9. 校内科技创新协会成员
+10. 英语水平良好，可无障碍阅读英语论文
+
+### 社团经历
+---
+**科技创新协会**
+使用python语言完成红绿灯、赛车控制等比赛活动
+
+
